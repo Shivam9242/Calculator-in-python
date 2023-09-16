@@ -1,1 +1,1 @@
-# Calculator-in-python
+# Mini Calculator-in-python
